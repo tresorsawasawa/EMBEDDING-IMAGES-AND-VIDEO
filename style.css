@@ -146,3 +146,62 @@ iframe {
     width: 97%;
     height: 480px;
 }
+
+#title-div {
+    margin-top: 15px;
+}
+
+#title {
+    margin-top: 15px;
+    font-size: 18px;
+    color: white;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+
+/* Social */
+
+#views-social {
+    display: flex;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#views {
+    font-size: 14px;
+    color: #aaaaaa;
+    line-height: 35px;
+}
+
+.social-buttons {
+    font-size: 19px;
+    padding: 0 8px 4px 15px;
+    color: #909090;
+}
+
+#social {
+    margin-left: auto;
+    display: flex;
+}
+
+.social-text {
+    font-size: 13px;
+    font-weight: 800;
+    color: #aaaaaa;
+    vertical-align: text-top;
+}
+
+#like-buttons {
+    border-bottom: 2px solid #909090;
+    padding: 0 5px 10px 0;
+    border-collapse: collapse;
+    display: flex;
+}
+
+.social-buttons-div {
+    padding: 0 10px 0 10px;
+}
+
+#dots:hover i {
+    color: #fff;
+}
