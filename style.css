@@ -115,3 +115,21 @@ a {
 #search-bar:focus {
     border-color: rgb(23, 76, 170);
 }
+
+
+/* Video and comments section */
+
+section {
+    width: 60%;
+    padding-top: 80px;
+    padding-left: 79px;
+    margin-right: 10px;
+}
+
+iframe {
+    margin-left: 13px;
+    min-width: 50%;
+    min-height: 50%;
+    width: 97%;
+    height: 480px;
+}
